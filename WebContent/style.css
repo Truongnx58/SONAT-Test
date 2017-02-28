@@ -1,0 +1,15 @@
+ @CHARSET "UTF-8";
+ 
+ body{
+ 	width:800px;
+ 	heigh:auto;
+ 	margin : auto;
+ }
+ fieldset{
+ 	width: 400px;
+	margin:50px auto;
+}
+.tb{
+	margin:0 auto;
+}
+ 
